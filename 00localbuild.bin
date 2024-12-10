@@ -1,0 +1,8 @@
+@echo off
+REM Удаляем папку build
+if exist build (
+    rmdir /S /Q build
+)
+
+REM Сборка документации
+python -m sphinx -j auto -b html source build
