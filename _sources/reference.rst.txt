@@ -1,7 +1,7 @@
-Reference
+Справочник
 =========
 
-Design reference materials.
+Справочные материалы по дизайну.
 
 .. toctree::
    :hidden:
@@ -19,7 +19,7 @@ Design reference materials.
       :target: reference/keyboard.html
       :class: only-dark
       
-   :doc:`Standard Keyboard Shortcuts </reference/keyboard>` 
+   :doc:`Стандартные сочетания клавиш </reference/keyboard>` 
 
 *  .. image:: img/tiles/reference-palette.svg
       :target: reference/palette.html
@@ -28,7 +28,7 @@ Design reference materials.
       :target: reference/palette.html
       :class: only-dark
       
-   :doc:`Color Palette </reference/palette>` 
+   :doc:`Цветовая палитра </reference/palette>` 
 
 *  .. image:: img/tiles/reference-backgrounds.svg
       :target: reference/backgrounds.html
@@ -37,4 +37,4 @@ Design reference materials.
       :target: reference/backgrounds.html
       :class: only-dark
       
-   :doc:`Backgrounds </reference/backgrounds>`
+   :doc:`Задний фон </reference/backgrounds>`

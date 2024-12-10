@@ -1,11 +1,12 @@
-Patterns
+Шаблоны
+
 ========
 
-The GNOME design patterns represent the elements from which an overall design can be constructed. Some patterns are common to all apps, whereas others can be used selectively.
+Шаблоны дизайна GNOME представляют собой элементы, из которых может быть построен общий дизайн. Некоторые шаблоны являются общими для всех приложений, в то время как другие можно использовать выборочно.
 
-In many cases, a pattern corresponds to a single user interface widget or API. However, patterns can also consist of multiple widgets used together in a particular way.
+Во многих случаях шаблон соответствует одному виджету пользовательского интерфейса или API. Однако шаблоны могут состоять и из нескольких виджетов, используемых вместе определенным образом.
 
-The patterns are divided into four categories:
+Шаблоны разделены на четыре категории:
 
 .. toctree::
    :hidden:
@@ -24,7 +25,7 @@ The patterns are divided into four categories:
       :target: patterns/containers.html
       :class: only-dark
       
-   :doc:`Containers <patterns/containers>` 
+   :doc:`Контейнеры <patterns/containers>` 
 
 *  .. image:: /img/tiles/nav-browsing.svg
       :target: patterns/nav.html
@@ -33,7 +34,7 @@ The patterns are divided into four categories:
       :target: patterns/nav.html
       :class: only-dark
 
-   :doc:`Navigation <patterns/nav>`
+   :doc:`Навигация <patterns/nav>`
 
 *  .. image:: /img/tiles/controls-switches.svg
       :target: patterns/controls.html
@@ -42,7 +43,7 @@ The patterns are divided into four categories:
       :target: patterns/controls.html
       :class: only-dark
 
-   :doc:`Controls <patterns/controls>`
+   :doc:`Управление <patterns/controls>`
 
 *  .. image:: /img/tiles/feedback-notifications.svg
       :target: patterns/feedback.html
@@ -51,4 +52,4 @@ The patterns are divided into four categories:
       :target: patterns/feedback.html
       :class: only-dark
 
-   :doc:`Feedback <patterns/feedback>`
+   :doc:`Обратная связь <patterns/feedback>`
