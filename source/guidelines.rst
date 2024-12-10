@@ -1,7 +1,7 @@
-Guidelines
+Руководства
 ==========
 
-The guidelines section covers the standard conventions used in GNOME UX design. These are all generally applicable, and are relevant to all apps and design patterns.
+В разделе «Рекомендации» описаны стандартные соглашения, используемые в дизайне GNOME UX. Все они являются общеприменимыми и относятся ко всем приложениям и шаблонам дизайна.
 
 .. toctree::
    :hidden:
@@ -27,7 +27,7 @@ The guidelines section covers the standard conventions used in GNOME UX design. 
       :target: guidelines/app-naming.html
       :class: only-dark
       
-   :doc:`App Naming </guidelines/app-naming>`
+   :doc:`Название приложений </guidelines/app-naming>`
 
 *  .. image:: img/tiles/guidelines-appicons.svg
       :target: guidelines/app-icons.html
@@ -36,7 +36,7 @@ The guidelines section covers the standard conventions used in GNOME UX design. 
       :target: guidelines/app-icons.html
       :class: only-dark
       
-   :doc:`App Icons </guidelines/app-icons>` 
+   :doc:`Иконки приложений </guidelines/app-icons>` 
 
 *  .. image:: img/tiles/guidelines-pointertouch.svg
       :target: guidelines/pointer-touch.html
@@ -45,7 +45,7 @@ The guidelines section covers the standard conventions used in GNOME UX design. 
       :target: guidelines/pointer-touch.html
       :class: only-dark
       
-   :doc:`Pointer & Touch </guidelines/pointer-touch>` 
+   :doc:`Указатель и касание </guidelines/pointer-touch>` 
 
 *  .. image:: img/tiles/guidelines-keyboard.svg
       :target: guidelines/keyboard.html
@@ -54,7 +54,7 @@ The guidelines section covers the standard conventions used in GNOME UX design. 
       :target: guidelines/keyboard.html
       :class: only-dark
       
-   :doc:`Keyboard </guidelines/keyboard>` 
+   :doc:`Клавиатура </guidelines/keyboard>` 
 
 *  .. image:: img/tiles/guidelines-uiicons.svg
       :target: guidelines/ui-icons.html
@@ -63,7 +63,7 @@ The guidelines section covers the standard conventions used in GNOME UX design. 
       :target: guidelines/ui-icons.html
       :class: only-dark
       
-   :doc:`UI Icons </guidelines/ui-icons>` 
+   :doc:`Иконки пользовательского интерфейса </guidelines/ui-icons>` 
 
 *  .. image:: img/tiles/guidelines-uistyling.svg
       :target: guidelines/ui-styling.html
@@ -72,7 +72,7 @@ The guidelines section covers the standard conventions used in GNOME UX design. 
       :target: guidelines/ui-styling.html
       :class: only-dark
       
-   :doc:`UI Styling </guidelines/ui-styling>` 
+   :doc:`Стилизация пользовательского интерфейса </guidelines/ui-styling>` 
 
 *  .. image:: img/tiles/guidelines-writingstyle.svg
       :target: guidelines/writing-style.html
@@ -81,7 +81,7 @@ The guidelines section covers the standard conventions used in GNOME UX design. 
       :target: guidelines/writing-style.html
       :class: only-dark
       
-   :doc:`Writing Style </guidelines/writing-style>` 
+   :doc:`Стиль ввода </guidelines/writing-style>` 
 
 *  .. image:: img/tiles/guidelines-typography.svg
       :target: guidelines/typography.html
@@ -90,7 +90,7 @@ The guidelines section covers the standard conventions used in GNOME UX design. 
       :target: guidelines/typography.html
       :class: only-dark
       
-   :doc:`Typography </guidelines/typography>`
+   :doc:`Типография </guidelines/typography>`
 
 *  .. image:: img/tiles/nav-browsing.svg
       :target: guidelines/navigation.html
@@ -99,7 +99,7 @@ The guidelines section covers the standard conventions used in GNOME UX design. 
       :target: guidelines/navigation.html
       :class: only-dark
       
-   :doc:`Navigation </guidelines/navigation>`
+   :doc:`Навигация </guidelines/navigation>`
 
 *  .. image:: img/tiles/guidelines-scalingandadaptiveness.svg
       :target: guidelines/adaptive.html
@@ -108,7 +108,7 @@ The guidelines section covers the standard conventions used in GNOME UX design. 
       :target: guidelines/adaptive.html
       :class: only-dark
       
-   :doc:`Scaling & Adaptiveness </guidelines/adaptive>`
+   :doc:`Масштабирование и адаптация </guidelines/adaptive>`
 
 *  .. image:: img/tiles/guidelines-accessibility.svg
       :target: guidelines/accessibility.html
@@ -117,4 +117,4 @@ The guidelines section covers the standard conventions used in GNOME UX design. 
       :target: guidelines/accessibility.html
       :class: only-dark
       
-   :doc:`Accessibility </guidelines/accessibility>` 
+   :doc:`Доступность </guidelines/accessibility>` 

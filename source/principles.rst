@@ -1,45 +1,46 @@
-Design Principles
+Принципы дизайна
 =================
 
-The HIG and the GNOME platform are reflective of the GNOME design tradition and philosophy, which has been informed by the project's collective experience creating user-facing software for over 20 years.
+HIG и платформа GNOME отражают традиции и философию дизайна GNOME, которые были заложены коллективным опытом проекта по созданию программного обеспечения, ориентированного на пользователя, на протяжении более 20 лет.
 
-Designers and developers building for the GNOME platform are encouraged to familiarize themselves with our design philosophy, as this will enhance their ability to produce beautiful, effective, attractive, easy to use apps.
+Дизайнерам и разработчикам, создающим приложения для платформы GNOME, рекомендуется ознакомиться с нашей философией дизайна, поскольку это повысит их способность создавать красивые, эффективные, привлекательные и простые в использовании приложения.
 
-Design for People
+Дизайн для людей
 -----------------
 
-People are at the heart of GNOME design. Wherever possible, we seek to be as inclusive as possible. This means accommodating different physical abilities, cultures, and device form factors. Our software requires little specialist knowledge and technical ability.
+В основе дизайна GNOME лежат люди. Везде, где это возможно, мы стремимся быть максимально инклюзивными. Это означает, что мы учитываем различные физические возможности, культуры и форм-факторы устройств. Наше программное обеспечение не требует специальных знаний и технических навыков.
 
-The drive to create accommodating software threads its way through each of our guiding principles.
+Стремление к созданию удобного программного обеспечения прослеживается в каждом из наших руководящих принципов.
 
 .. image:: img/design-for-people.svg
 
-Make it Simple
+Сделайте все просто
 --------------
 
-The best apps do one thing and do it well. Often this requires having insight into the goals of your app, not just in functional terms but also how it will be used and fit into peoples' lives. The principle of simplicity applies to each view and element of your app, as well as the app as a whole.
+Лучшие приложения делают что-то одно и делают это хорошо. Часто для этого необходимо понимать цели вашего приложения, причем не только с точки зрения функциональности, но и того, как оно будет использоваться и вписываться в жизнь людей. Принцип простоты применим к каждому виду и элементу вашего приложения, а также к приложению в целом.
 
-* Resist the pull to try and make an app that suits all people in all situations. Focus on one situation, one type of experience.
-* Don't overwhelm people with too many elements at once. Use progressive disclosure and navigation structures to provide a guided experience.
-* Frequently used actions should be close at hand, with less important actions being further away.
+* Не поддавайтесь порыву создать приложение, которое подойдет всем людям во всех ситуациях. Сосредоточьтесь на одной ситуации, одном типе опыта.
+* Не перегружайте людей слишком большим количеством элементов сразу. Используйте прогрессивное раскрытие информации и навигационные структуры для обеспечения управляемого опыта.
+* Часто используемые действия должны быть под рукой, а менее важные - на расстоянии.
 
 
-Reduce User Effort
+Сократите усилия пользователя
 ------------------
 
-It is our job as software creators to reduce the amount of work and effort that people have to expend. This often means anticipating user needs, which requires having insight into the kind of situations and people your app is for.
+Наша задача как создателей программного обеспечения - сократить количество работы и усилий, которые приходится затрачивать людям. Это часто означает предвосхищение потребностей пользователей, что требует понимания того, для каких ситуаций и людей предназначено ваше приложение.
 
-* If something can be done automatically, do it automatically.
-* Try to minimize the number of steps required to perform a task.
-* Reduce the amount of information that people need to remember while using your app (tabs, recently used lists, and automatic suggestions are all effective techniques in this respect).
-* Keep text short and to the point.
+* Если что-то можно сделать автоматически, сделайте это автоматически.
+* Старайтесь минимизировать количество шагов, необходимых для выполнения задачи.
+* Сократите количество информации, которую люди должны запомнить при использовании вашего приложения (вкладки, списки недавно использованных приложений и автоматические предложения - все это эффективные приемы в этом отношении).
+* Делайте текст коротким и понятным.
 
 
-Be Considerate
+Будьте внимательны
 --------------
 
-Anticipating user needs goes beyond providing useful functionality. It also requires thinking about what people don't want from your app.
+Предвосхищение потребностей пользователей не ограничивается предоставлением полезной функциональности. Необходимо также подумать о том, чего люди не хотят от вашего приложения.
 
-* Try to anticipate and prevent mistakes.
-* Allow destructive actions to be undone instead of asking for confirmation.
-* Respect people's time and attention. Don't interrupt or distract them unnecessarily.
+* Старайтесь предвидеть и предотвращать ошибки.
+* Позволяйте отменять разрушительные действия вместо того, чтобы просить подтверждения.
+* Уважайте время и внимание людей. Не прерывайте и не отвлекайте их без необходимости.
+*** Переведено с помощью www.DeepL.com/Translator (бесплатная версия) ***
