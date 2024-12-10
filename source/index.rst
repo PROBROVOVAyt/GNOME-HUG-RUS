@@ -1,37 +1,38 @@
 .. image:: img/hig.svg
 
-Рекомендации по работе с человеческим интерфейсом GNOME
+GNOME Human Interface Guidelines
 ================================
 
-Руководство по пользовательскому интерфейсу GNOME является основным источником проектной документации для тех, кто создает программное обеспечение на платформе GNOME development platform. В первую очередь оно предназначено для дизайнеров и разработчиков приложений, но может быть полезно всем, кто хочет ознакомиться с GNOME UX.
+The GNOME Human Interface Guidelines are the primary source of design documentation for those creating software with the GNOME development platform. They are primarily intended for app designers and developers, but are relevant to anyone wanting to familiarize themselves with GNOME UX.
 
-Определение платформы
+Platform Definition
 -------------------
 
-HIG предназначен для использования в сочетании с последними версиями платформы GNOME, в частности GTK 4 и Libadwaita.
+The HIG is intended to be used in conjunction with recent versions of the GNOME platform, in particular GTK 4 and Libadwaita.
 
-Обзор содержимого
+Content Overview
 ----------------
 
-HIG состоит из следующих разделов:
+The HIG is made up of the following sections:
 
-* :doc: "Принципы проектирования <principles>": основные правила и цели проектирования для платформы GNOME. Это лучшее место для начала для всех, кто не знаком с HIG или дизайном GNOME.
-* :doc: `Ресурсы <resources>": обзор инструментов и ресурсов, доступных для разработки GNOME.
-* :doc: `Рекомендации <guidelines>": стандартные соглашения, которые используются при разработке GNOME UX, в том числе о том, как писать текст, использовать значки, создавать идентификаторы приложений и обрабатывать различные типы ввода.
-* :doc: "Шаблоны <patterns>": описывает элементы, из которых могут быть составлены дизайны, такие как окна, кнопки, уведомления или переключатели видов. Шаблоны разделены на четыре типа: :doc: "контейнеры </patterns/containers>", :doc:"навигация </patterns/nav>", :doc: "обратная связь </patterns/feedback>" и :doc:"элементы управления </patterns/controls>".
-* :doc:`Ссылка <reference>`: стандартные сочетания клавиш и цвета пользовательского интерфейса.
+* :doc:`Design principles <principles>`: basic design rules and goals for the GNOME platform. This is the best place to start for anyone who is new to the HIG or GNOME design.
+* :doc:`Resources <resources>`: an overview of the tools and assets that are available for GNOME design work.
+* :doc:`Guidelines <guidelines>`: the standard conventions that are used in GNOME UX design, including how to write text, use icons, create app identities, and handle different types of input.
+* :doc:`Patterns <patterns>`: covers the elements from which designs can be composed, such as windows, buttons, notifications or view switchers. The patterns are organized into four types: :doc:`containers </patterns/containers>`, :doc:`navigation </patterns/nav>`, :doc:`feedback </patterns/feedback>`, and :doc:`controls </patterns/controls>`.
+* :doc:`Reference <reference>`: standard keyboard shortcuts and UI colors.
 
-Способствовать
+Contribute
 ----------
 
-`HIG project <https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-hig>"_ в экземпляре GNOME GitLab можно использовать для сообщения о проблемах и предложения изменений.
+The `HIG project <https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-hig>`_ on GNOME's GitLab instance can be used to report issues and propose changes.
 
 .. toctree::
    :maxdepth: 1
    :hidden:
 
-   принципы
-   ресурсы
-   методические рекомендации
-   узоры
-   ссылка
+   principles
+   resources
+   guidelines
+   patterns
+   reference
+
