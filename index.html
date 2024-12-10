@@ -3,7 +3,7 @@
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
-<link rel="index" title="Index" href="genindex.html" /><link rel="search" title="Search" href="search.html" />
+<link rel="index" title="Index" href="genindex.html" /><link rel="search" title="Search" href="search.html" /><link rel="next" title="Принципы проектирования" href="principles.html" />
 
     <link rel="shortcut icon" href="_static/favicon.svg"/><!-- Generated with Sphinx 6.2.1 and Furo 2024.01.29 -->
         <title>GNOME Human Interface Guidelines</title>
@@ -171,7 +171,20 @@
   <input type="hidden" name="area" value="default">
 </form>
 <div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
-  
+  <ul>
+<li class="toctree-l1"><a class="reference internal" href="principles.html">Принципы проектирования</a></li>
+<li class="toctree-l1"><a class="reference internal" href="resources.html">Инструменты и ресурсы</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="guidelines.html">Методические рекомендации</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle navigation of Методические рекомендации</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="simple">
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="patterns.html">Узоры</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">Toggle navigation of Узоры</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="simple">
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="reference.html">Ссылка</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">Toggle navigation of Ссылка</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="simple">
+</ul>
+</li>
+</ul>
+
 </div>
 </div>
 
@@ -212,47 +225,27 @@
           </label>
         </div>
         <article role="main" id="furo-main-content">
-          <img alt="_images/hig.svg" src="_images/hig.svg" /><section id="gnome">
-<h1>Рекомендации по работе с человеческим интерфейсом GNOME<a class="headerlink" href="#gnome" title="Permalink to this heading">#</a></h1>
-<p>Руководство по пользовательскому интерфейсу GNOME является основным источником проектной документации для тех, кто создает программное обеспечение на платформе GNOME development platform. В первую очередь оно предназначено для дизайнеров и разработчиков приложений, но может быть полезно всем, кто хочет ознакомиться с GNOME UX.</p>
-<section id="id1">
-<h2>Определение платформы<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h2>
-<p>HIG предназначен для использования в сочетании с последними версиями платформы GNOME, в частности GTK 4 и Libadwaita.</p>
+          <img alt="_images/hig.svg" src="_images/hig.svg" /><section id="gnome-human-interface-guidelines">
+<h1>GNOME Human Interface Guidelines<a class="headerlink" href="#gnome-human-interface-guidelines" title="Permalink to this heading">#</a></h1>
+<p>The GNOME Human Interface Guidelines are the primary source of design documentation for those creating software with the GNOME development platform. They are primarily intended for app designers and developers, but are relevant to anyone wanting to familiarize themselves with GNOME UX.</p>
+<section id="platform-definition">
+<h2>Platform Definition<a class="headerlink" href="#platform-definition" title="Permalink to this heading">#</a></h2>
+<p>The HIG is intended to be used in conjunction with recent versions of the GNOME platform, in particular GTK 4 and Libadwaita.</p>
 </section>
-<section id="id2">
-<h2>Обзор содержимого<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h2>
-<p>HIG состоит из следующих разделов:</p>
+<section id="content-overview">
+<h2>Content Overview<a class="headerlink" href="#content-overview" title="Permalink to this heading">#</a></h2>
+<p>The HIG is made up of the following sections:</p>
 <ul class="simple">
-<li><dl class="field-list simple">
-<dt class="field-odd">doc<span class="colon">:</span></dt>
-<dd class="field-odd"><p>“Принципы проектирования &lt;principles&gt;”: основные правила и цели проектирования для платформы GNOME. Это лучшее место для начала для всех, кто не знаком с HIG или дизайном GNOME.</p>
-</dd>
-</dl>
-</li>
-<li><dl class="field-list simple">
-<dt class="field-odd">doc<span class="colon">:</span></dt>
-<dd class="field-odd"><p><a href="#id3"><span class="problematic" id="id4">`</span></a>Ресурсы &lt;resources&gt;”: обзор инструментов и ресурсов, доступных для разработки GNOME.</p>
-</dd>
-</dl>
-</li>
-<li><dl class="field-list simple">
-<dt class="field-odd">doc<span class="colon">:</span></dt>
-<dd class="field-odd"><p><a href="#id5"><span class="problematic" id="id6">`</span></a>Рекомендации &lt;guidelines&gt;”: стандартные соглашения, которые используются при разработке GNOME UX, в том числе о том, как писать текст, использовать значки, создавать идентификаторы приложений и обрабатывать различные типы ввода.</p>
-</dd>
-</dl>
-</li>
-<li><dl class="field-list simple">
-<dt class="field-odd">doc<span class="colon">:</span></dt>
-<dd class="field-odd"><p>“Шаблоны &lt;patterns&gt;”: описывает элементы, из которых могут быть составлены дизайны, такие как окна, кнопки, уведомления или переключатели видов. Шаблоны разделены на четыре типа: :doc: “контейнеры &lt;/patterns/containers&gt;”, :doc:”навигация &lt;/patterns/nav&gt;”, :doc: “обратная связь &lt;/patterns/feedback&gt;” и :doc:”элементы управления &lt;/patterns/controls&gt;”.</p>
-</dd>
-</dl>
-</li>
-<li><p><a class="reference internal" href="reference.html"><span class="doc">Ссылка</span></a>: стандартные сочетания клавиш и цвета пользовательского интерфейса.</p></li>
+<li><p><a class="reference internal" href="principles.html"><span class="doc">Design principles</span></a>: basic design rules and goals for the GNOME platform. This is the best place to start for anyone who is new to the HIG or GNOME design.</p></li>
+<li><p><a class="reference internal" href="resources.html"><span class="doc">Resources</span></a>: an overview of the tools and assets that are available for GNOME design work.</p></li>
+<li><p><a class="reference internal" href="guidelines.html"><span class="doc">Guidelines</span></a>: the standard conventions that are used in GNOME UX design, including how to write text, use icons, create app identities, and handle different types of input.</p></li>
+<li><p><a class="reference internal" href="patterns.html"><span class="doc">Patterns</span></a>: covers the elements from which designs can be composed, such as windows, buttons, notifications or view switchers. The patterns are organized into four types: <a class="reference internal" href="patterns/containers.html"><span class="doc">containers</span></a>, <a class="reference internal" href="patterns/nav.html"><span class="doc">navigation</span></a>, <a class="reference internal" href="patterns/feedback.html"><span class="doc">feedback</span></a>, and <a class="reference internal" href="patterns/controls.html"><span class="doc">controls</span></a>.</p></li>
+<li><p><a class="reference internal" href="reference.html"><span class="doc">Reference</span></a>: standard keyboard shortcuts and UI colors.</p></li>
 </ul>
 </section>
-<section id="id7">
-<h2>Способствовать<a class="headerlink" href="#id7" title="Permalink to this heading">#</a></h2>
-<p><a href="#id8"><span class="problematic" id="id9">`</span></a>HIG project &lt;<a class="reference external" href="https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-hig">https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-hig</a>&gt;”_ в экземпляре GNOME GitLab можно использовать для сообщения о проблемах и предложения изменений.</p>
+<section id="contribute">
+<h2>Contribute<a class="headerlink" href="#contribute" title="Permalink to this heading">#</a></h2>
+<p>The <a class="reference external" href="https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-hig">HIG project</a> on GNOME’s GitLab instance can be used to report issues and propose changes.</p>
 <div class="toctree-wrapper compound">
 </div>
 </section>
@@ -263,7 +256,15 @@
       <footer>
         
         <div class="related-pages">
-          
+          <a class="next-page" href="principles.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Принципы проектирования</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
           
         </div>
       
@@ -282,10 +283,10 @@
         <div class="toc-tree-container">
           <div class="toc-tree">
             <ul>
-<li><a class="reference internal" href="#">Рекомендации по работе с человеческим интерфейсом GNOME</a><ul>
-<li><a class="reference internal" href="#id1">Определение платформы</a></li>
-<li><a class="reference internal" href="#id2">Обзор содержимого</a></li>
-<li><a class="reference internal" href="#id7">Способствовать</a></li>
+<li><a class="reference internal" href="#">GNOME Human Interface Guidelines</a><ul>
+<li><a class="reference internal" href="#platform-definition">Platform Definition</a></li>
+<li><a class="reference internal" href="#content-overview">Content Overview</a></li>
+<li><a class="reference internal" href="#contribute">Contribute</a></li>
 </ul>
 </li>
 </ul>
