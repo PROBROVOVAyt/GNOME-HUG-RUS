@@ -25,7 +25,7 @@ HIG состоит из следующих разделов:
 ----------
 
 `HIG project <https://gitlab.gnome.org/Teams/Websites/developer.gnome.org-hig>`_ на экземпляре GNOME GitLab можно сообщать о проблемах и предлагать изменения.
-`PROBROVOVA <https://github.com/PROBROVOVAyt/GNOME-HUG-RUS>`_ перевел все с использованием DeepL
+`PROBROVOVA <https://github.com/PROBROVOVAyt/GNOME-HUG-RUS>`_ перевел все с использованием DeepL.
 
 .. toctree::
    :maxdepth: 1

@@ -1,4 +1,4 @@
-Writing Style
+Стиль ввода
 =============
 
 Text plays an important role in user interfaces. Above all, user interface text should be easy to understand and quick to read. 

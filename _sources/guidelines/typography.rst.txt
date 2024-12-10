@@ -1,4 +1,4 @@
-Typography
+Типография
 ==========
 
 Text is an important part of any user interface. Text size, positioning, and weight all contribute to the ability for text to convey information effectively, and also play an important role in creating a beautiful appearance.

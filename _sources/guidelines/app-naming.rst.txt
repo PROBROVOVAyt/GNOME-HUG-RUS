@@ -1,4 +1,4 @@
-App Naming
+Название приложений
 ==========
 
 App names are a vital and essential part of the user experience. Not only do they play an important practical role in communicating what an app does, but they also establish app identity and character.

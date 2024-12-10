@@ -1,4 +1,4 @@
-Accessibility
+Доступность
 =============
 
 Accessibility guidelines are included throughout the HIG and, the pages on :doc:`keyboard interaction <keyboard>`, :doc:`pointer interaction <pointer-touch>`, and :doc:`UI styling <ui-styling>` are especially relevant to this topic.

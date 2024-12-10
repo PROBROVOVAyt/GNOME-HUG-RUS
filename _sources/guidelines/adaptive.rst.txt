@@ -1,4 +1,4 @@
-Scaling & Adaptiveness
+Масштабирование и адаптация
 ========================
 
 GNOME  supports a variety of device types, including desktops, laptops, convertibles, and phones. On the desktop, windows can also be used at a variety of sizes, and can sometimes be tiled alongside other windows. It is therefore important to ensure that app windows look and perform well at a range of sizes.
