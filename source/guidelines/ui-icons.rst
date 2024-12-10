@@ -1,4 +1,4 @@
-UI Icons
+Иконки пользовательского интерфейса
 ========
 
 This page provides general guidance on UI icon usage: when to use them, which ones to use, how to find them, and how to create them.

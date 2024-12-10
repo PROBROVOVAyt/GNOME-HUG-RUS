@@ -1,4 +1,4 @@
-Keyboard
+Клавиатура
 ========
 
 Keyboard interaction covers a range of behaviors, from text entry and shortcuts, through to the keyboard being used as the sole input device. The latter is vital for visually-impaired people or those with mobility impairments.

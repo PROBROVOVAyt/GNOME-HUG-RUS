@@ -6,7 +6,7 @@
 Общие ресурсы
 -----------------
 
-* Цветовая палитра: `Формат Inkscape/GIMP <https://gitlab.gnome.org/Teams/Design/HIG-app-icons/raw/master/GNOME%20HIG.gpl?inline=false>`_, :doc:`справочная таблица <reference/palette>`
+* Цветовая палитра: `Inkscape/GIMP format <https://gitlab.gnome.org/Teams/Design/HIG-app-icons/raw/master/GNOME%20HIG.gpl?inline=false>`_, :doc:`справочная таблица <reference/palette>`
 * Шрифт Cantarell: предустановлен в дистрибутивах на базе GNOME и `доступен для скачивания <https://cantarell.gnome.org>`_.
 
 Приложения
@@ -25,7 +25,7 @@
 
 Следующие инструменты полезны для того, чтобы увидеть, как различные шаблоны и элементы дизайна работают на практике:
 
-* Adwaita Demo: демонстрационное приложение для libadwaita. Его можно установить из `gnome-nightly platpak репозитория <https://nightly.gnome.org/repo/appstream/org.gnome.Adwaita1.Demo.flatpakref>`_ и иногда упаковывается в дистрибутивы как ``adwaita-1-demo``.
+* Adwaita Demo: демонстрационное приложение для libadwaita. Его можно установить из `gnome-nightly platpak репозитория <https://nightly.gnome.org/repo/appstream/org.gnome.Adwaita1.Demo.flatpakref>`_ и иногда он упаковывается в дистрибутивы как ``adwaita-1-demo``.
 * `GTK inspector <https://docs.gtk.org/gtk4/running.html#interactive-debugging>`_: можно использовать для проверки любого приложения GTK
 
 SVG шаблоны и примеры

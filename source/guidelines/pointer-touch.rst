@@ -1,4 +1,4 @@
-Pointer & Touch
+Указатель и касание
 ===============
 
 A pointing device is any input device that allows the manipulation of a pointer — typically represented as an arrow, and often called a cursor — on screen. While mice and touchpads are the most common pointing devices, there are many others, including graphics tablets, track balls, track points and joysticks.

@@ -1,4 +1,4 @@
-App Icons
+Иконки приложений
 =========
 
 In addition to having a :doc:`great name <app-naming>`, every app also needs a great icon. This page provides guidance on how to create one.

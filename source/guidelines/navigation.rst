@@ -1,4 +1,4 @@
-Navigation
+Навигация
 ==========
 
 While some apps only need a single view in which to show their UI, most need to be broken down into a series of views or windows. The :doc:`navigation </patterns/nav>` and :doc:`containers </patterns/containers>` patterns cover the most common design options for doing this. This page provides some general guidance on how to put them together.

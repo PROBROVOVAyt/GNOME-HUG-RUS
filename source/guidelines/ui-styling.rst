@@ -1,4 +1,4 @@
-UI Styling
+Стилизация пользовательского интерфейса
 ==========
 
 The visual style used for UI in GNOME is called Adwaita. It includes light and dark style options, which apply to all UI components, as well as a range of style options for individual widgets.
