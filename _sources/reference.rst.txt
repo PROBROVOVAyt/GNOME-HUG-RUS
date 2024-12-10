@@ -1,18 +1,18 @@
-Ссылка
+Reference
 =========
 
-Справочные материалы для проектирования.
+Design reference materials.
 
 .. toctree::
    :hidden:
 
-   ссылка/клавиатура
-   ссылка/палитра
-   справочная информация/предыстория
+   reference/keyboard
+   reference/palette
+   reference/backgrounds
 
 .. cssclass:: tiled-toc
 
-* .. изображение:: img/tiles/reference-keyboard.svg
+*  .. image:: img/tiles/reference-keyboard.svg
       :target: reference/keyboard.html
       :class: only-light
    .. image:: /img/tiles/reference-keyboard-dark.svg
@@ -21,7 +21,7 @@
       
    :doc:`Standard Keyboard Shortcuts </reference/keyboard>` 
 
-* .. изображение:: img/tiles/reference-palette.svg
+*  .. image:: img/tiles/reference-palette.svg
       :target: reference/palette.html
       :class: only-light
    .. image:: /img/tiles/reference-palette-dark.svg
@@ -30,7 +30,7 @@
       
    :doc:`Color Palette </reference/palette>` 
 
-* .. изображение:: img/tiles/reference-backgrounds.svg
+*  .. image:: img/tiles/reference-backgrounds.svg
       :target: reference/backgrounds.html
       :class: only-light
    .. image:: /img/tiles/reference-backgrounds-dark.svg

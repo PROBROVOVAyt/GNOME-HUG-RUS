@@ -1,23 +1,23 @@
-Узоры
+Patterns
 ========
 
-Шаблоны дизайна GNOME представляют собой элементы, из которых может быть создан общий дизайн. Некоторые шаблоны являются общими для всех приложений, в то время как другие можно использовать выборочно.
+The GNOME design patterns represent the elements from which an overall design can be constructed. Some patterns are common to all apps, whereas others can be used selectively.
 
-Во многих случаях шаблон соответствует одному виджету пользовательского интерфейса или API. Однако шаблоны также могут состоять из нескольких виджетов, используемых вместе определенным образом.
+In many cases, a pattern corresponds to a single user interface widget or API. However, patterns can also consist of multiple widgets used together in a particular way.
 
-Шаблоны делятся на четыре категории:
+The patterns are divided into four categories:
 
 .. toctree::
    :hidden:
 
-   шаблоны/контейнеры
-   паттерны/навигация
-   шаблоны/элементы управления
-   паттерны/обратная связь
+   patterns/containers
+   patterns/nav
+   patterns/controls
+   patterns/feedback
 
 .. cssclass:: tiled-toc
 
-* .. изображение:: /img/плитки/контейнеры-windows.svg
+*  .. image:: /img/tiles/containers-windows.svg
       :target: patterns/containers.html
       :class: only-light
    .. image:: /img/tiles/containers-windows-dark.svg
@@ -26,7 +26,7 @@
       
    :doc:`Containers <patterns/containers>` 
 
-* .. изображение:: /img/tiles/nav-browsing.svg
+*  .. image:: /img/tiles/nav-browsing.svg
       :target: patterns/nav.html
       :class: only-light
    .. image:: /img/tiles/nav-browsing-dark.svg
@@ -35,7 +35,7 @@
 
    :doc:`Navigation <patterns/nav>`
 
-* .. изображение:: /img/плитки/элементы управления-переключатели.svg
+*  .. image:: /img/tiles/controls-switches.svg
       :target: patterns/controls.html
       :class: only-light
    .. image:: /img/tiles/controls-switches-dark.svg
@@ -44,7 +44,7 @@
 
    :doc:`Controls <patterns/controls>`
 
-* .. изображение:: /img/плитки/обратная связь-уведомления.svg
+*  .. image:: /img/tiles/feedback-notifications.svg
       :target: patterns/feedback.html
       :class: only-light
    .. image:: /img/tiles/feedback-notifications-dark.svg
