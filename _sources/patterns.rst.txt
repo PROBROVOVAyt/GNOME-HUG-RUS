@@ -1,23 +1,23 @@
-Patterns
+Узоры
 ========
 
-The GNOME design patterns represent the elements from which an overall design can be constructed. Some patterns are common to all apps, whereas others can be used selectively.
+Шаблоны дизайна GNOME представляют собой элементы, из которых может быть создан общий дизайн. Некоторые шаблоны являются общими для всех приложений, в то время как другие можно использовать выборочно.
 
-In many cases, a pattern corresponds to a single user interface widget or API. However, patterns can also consist of multiple widgets used together in a particular way.
+Во многих случаях шаблон соответствует одному виджету пользовательского интерфейса или API. Однако шаблоны также могут состоять из нескольких виджетов, используемых вместе определенным образом.
 
-The patterns are divided into four categories:
+Шаблоны делятся на четыре категории:
 
 .. toctree::
    :hidden:
 
-   patterns/containers
-   patterns/nav
-   patterns/controls
-   patterns/feedback
+   шаблоны/контейнеры
+   паттерны/навигация
+   шаблоны/элементы управления
+   паттерны/обратная связь
 
 .. cssclass:: tiled-toc
 
-*  .. image:: /img/tiles/containers-windows.svg
+* .. изображение:: /img/плитки/контейнеры-windows.svg
       :target: patterns/containers.html
       :class: only-light
    .. image:: /img/tiles/containers-windows-dark.svg
@@ -26,7 +26,7 @@ The patterns are divided into four categories:
       
    :doc:`Containers <patterns/containers>` 
 
-*  .. image:: /img/tiles/nav-browsing.svg
+* .. изображение:: /img/tiles/nav-browsing.svg
       :target: patterns/nav.html
       :class: only-light
    .. image:: /img/tiles/nav-browsing-dark.svg
@@ -35,7 +35,7 @@ The patterns are divided into four categories:
 
    :doc:`Navigation <patterns/nav>`
 
-*  .. image:: /img/tiles/controls-switches.svg
+* .. изображение:: /img/плитки/элементы управления-переключатели.svg
       :target: patterns/controls.html
       :class: only-light
    .. image:: /img/tiles/controls-switches-dark.svg
@@ -44,7 +44,7 @@ The patterns are divided into four categories:
 
    :doc:`Controls <patterns/controls>`
 
-*  .. image:: /img/tiles/feedback-notifications.svg
+* .. изображение:: /img/плитки/обратная связь-уведомления.svg
       :target: patterns/feedback.html
       :class: only-light
    .. image:: /img/tiles/feedback-notifications-dark.svg
