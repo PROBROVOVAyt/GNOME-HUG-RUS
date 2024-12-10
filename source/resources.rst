@@ -1,39 +1,40 @@
-Инструменты и ресурсы
+Tools & Resources
 =================
 
-Для тех, кто занимается разработкой для платформы GNOME, доступен набор инструментов и ресурсов.
+A collection of tools and resources are available for those designing for the GNOME platform.
 
-Общие ресурсы
+General Resources
 -----------------
 
-* Цветовая палитра: `Формат Inkscape/GIMP <https://gitlab.gnome.org/Teams/Design/HIG-app-icons/raw/master/GNOME%20HIG.gpl?inline=false>`_, :doc:`справочная таблица <ссылка/палитра>`
-* Шрифт Cantarell: предустановлен в дистрибутивах на основе GNOME и `доступен для скачивания <https://cantarell.gnome.org>"_.
+* Color palette: `Inkscape/GIMP format <https://gitlab.gnome.org/Teams/Design/HIG-app-icons/raw/master/GNOME%20HIG.gpl?inline=false>`_, :doc:`reference table <reference/palette>`
+* Cantarell font: pre-installed in GNOME-based distributions and `available to download <https://cantarell.gnome.org>`_.
 
-Приложения
+Apps
 ----
 
-Все следующие приложения доступны для установки:
+The following apps are all available to install:
 
-* `Библиотека значков <https://flathub.org/apps/details/org.gnome.design.IconLibrary>"_: для поиска значков для использования в пользовательском интерфейсе GNOME
-* `Типографика <https://flathub.org/apps/details/org.gnome.design.Типографика>"_: для выбора стилей текста и часто используемых символов.
+* `Icon Library <https://flathub.org/apps/details/org.gnome.design.IconLibrary>`_: for finding icons to use in GNOME UI
+* `Typography <https://flathub.org/apps/details/org.gnome.design.Typography>`_: for selecting text styles and commonly used characters
 * `App Icon Preview <https://flathub.org/apps/details/org.gnome.design.AppIconPreview>`_: app icon creation assistant
 * `Symbolic Preview <https://flathub.org/apps/details/org.gnome.design.SymbolicPreview>`_: symbolic icon creation assistant
-* `Цветовая палитра <https://flathub.org/apps/details/org.gnome.design.Палитра>"_: ссылка на цветовую палитру GNOME
+* `Color Palette <https://flathub.org/apps/details/org.gnome.design.Palette>`_: reference for the GNOME color palette
 
-Набор инструментов
+Toolkit
 -------
 
-Следующие инструменты полезны для того, чтобы увидеть, как различные шаблоны и элементы дизайна работают на практике:
+The following tools are useful for seeing how the different patterns and design elements work in practice:
 
-* Adwaita Demo: демонстрационное приложение для libadwaita. Его можно установить из репозитория gnome-nightly flatpak <https://nightly.gnome.org/repo/appstream/org.gnome.Adwaita1.Demo.flatpakref>`_ и иногда упаковывается в дистрибутивы как `adwaita-1-demo`.
-* `Инспектор GTK <https://docs.gtk.org/gtk4/running.html#interactive-debugging>`_: может использоваться для проверки любого приложения GTK
+* Adwaita Demo: a demo app for libadwaita. This can be installed from the `gnome-nightly flatpak repository <https://nightly.gnome.org/repo/appstream/org.gnome.Adwaita1.Demo.flatpakref>`_ and is sometimes packaged by distributions as ``adwaita-1-demo``.
+* `GTK inspector <https://docs.gtk.org/gtk4/running.html#interactive-debugging>`_: can be used to inspect any GTK app
 
-Шаблоны и примеры SVG
+SVG Templates & Examples
 ------------------------
 
-Следующие шаблоны можно использовать в качестве отправной точки для создания макетов и значков.
+The following templates can be used as a starting point for mockups and icons.
 
-* `Шаблон макета приложения (SVG) <https://gitlab.gnome.org/Teams/Design/mockup-resources>`_
+* `App mockup template (SVG) <https://gitlab.gnome.org/Teams/Design/mockup-resources>`_
 * `App icon template (SVG) <https://gitlab.gnome.org/Teams/Design/HIG-app-icons/-/blob/master/template.svg>`_
 
-Кроме того, поскольку GNOME design работает в открытом доступе, "вся его работа является общедоступной и может быть свободно использована повторно <https://gitlab.gnome.org/Teams/Design>`_. (Однако имейте в виду, что не все эти работы обновлены или соответствуют последним рекомендациям.)
+Additionally, since GNOME design operates in the open, `all its work  is therefore publicly available, and can be freely reused <https://gitlab.gnome.org/Teams/Design>`_. (However, be aware that not all of this work is up to date or follows the latest recommendations.)
+
