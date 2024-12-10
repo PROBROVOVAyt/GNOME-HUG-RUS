@@ -1,26 +1,26 @@
-Методические рекомендации
+Guidelines
 ==========
 
-В разделе "Рекомендации" описаны стандартные соглашения, используемые при разработке GNOME UX. Все они в целом применимы и применимы ко всем приложениям и шаблонам проектирования.
+The guidelines section covers the standard conventions used in GNOME UX design. These are all generally applicable, and are relevant to all apps and design patterns.
 
 .. toctree::
    :hidden:
 
-   рекомендации/присвоение имен приложениям
-   рекомендации/значки приложений
-   указания/касание указателем
-   инструкции/клавиатура
-   рекомендации/значки пользовательского интерфейса
-   рекомендации/дизайн пользовательского интерфейса
-   рекомендации/стиль написания
-   рекомендации/типографика
-   рекомендации/навигация
-   руководящие принципы/адаптивный
-   руководящие принципы/доступность
+   guidelines/app-naming
+   guidelines/app-icons
+   guidelines/pointer-touch
+   guidelines/keyboard
+   guidelines/ui-icons
+   guidelines/ui-styling
+   guidelines/writing-style
+   guidelines/typography
+   guidelines/navigation
+   guidelines/adaptive
+   guidelines/accessibility
 
 .. cssclass:: tiled-toc
 
-* .. изображение:: img/плитки/рекомендации-appnaming.svg
+*  .. image:: img/tiles/guidelines-appnaming.svg
       :target: guidelines/app-naming.html
       :class: only-light
    .. image:: /img/tiles/guidelines-appnaming-dark.svg
@@ -29,7 +29,7 @@
       
    :doc:`App Naming </guidelines/app-naming>`
 
-* .. изображение:: img/плитки/рекомендации-appicons.svg
+*  .. image:: img/tiles/guidelines-appicons.svg
       :target: guidelines/app-icons.html
       :class: only-light
    .. image:: /img/tiles/guidelines-appicons-dark.svg
@@ -38,7 +38,7 @@
       
    :doc:`App Icons </guidelines/app-icons>` 
 
-* .. изображение:: img/плитки/направляющие-pointertouch.svg
+*  .. image:: img/tiles/guidelines-pointertouch.svg
       :target: guidelines/pointer-touch.html
       :class: only-light
    .. image:: /img/tiles/guidelines-pointertouch-dark.svg
@@ -47,7 +47,7 @@
       
    :doc:`Pointer & Touch </guidelines/pointer-touch>` 
 
-* .. изображение:: img/tiles/guidelines-клавиатура.svg
+*  .. image:: img/tiles/guidelines-keyboard.svg
       :target: guidelines/keyboard.html
       :class: only-light
    .. image:: /img/tiles/guidelines-keyboard-dark.svg
@@ -56,7 +56,7 @@
       
    :doc:`Keyboard </guidelines/keyboard>` 
 
-* .. изображение:: img/плитки/рекомендации-uiicons.svg
+*  .. image:: img/tiles/guidelines-uiicons.svg
       :target: guidelines/ui-icons.html
       :class: only-light
    .. image:: /img/tiles/guidelines-uiicons-dark.svg
@@ -65,7 +65,7 @@
       
    :doc:`UI Icons </guidelines/ui-icons>` 
 
-* .. изображение:: img/плитки/рекомендации-uistyling.svg
+*  .. image:: img/tiles/guidelines-uistyling.svg
       :target: guidelines/ui-styling.html
       :class: only-light
    .. image:: /img/tiles/guidelines-uistyling-dark.svg
@@ -74,7 +74,7 @@
       
    :doc:`UI Styling </guidelines/ui-styling>` 
 
-* .. изображение:: img/tiles/guidelines-writingstyle.svg
+*  .. image:: img/tiles/guidelines-writingstyle.svg
       :target: guidelines/writing-style.html
       :class: only-light
    .. image:: /img/tiles/guidelines-writingstyle-dark.svg
@@ -83,7 +83,7 @@
       
    :doc:`Writing Style </guidelines/writing-style>` 
 
-* .. изображение:: img/плитки/рекомендации-typography.svg
+*  .. image:: img/tiles/guidelines-typography.svg
       :target: guidelines/typography.html
       :class: only-light
    .. image:: /img/tiles/guidelines-typography-dark.svg
@@ -92,7 +92,7 @@
       
    :doc:`Typography </guidelines/typography>`
 
-* .. изображение:: img/tiles/nav-browsing.svg
+*  .. image:: img/tiles/nav-browsing.svg
       :target: guidelines/navigation.html
       :class: only-light
    .. image:: /img/tiles/nav-browsing-dark.svg
@@ -101,7 +101,7 @@
       
    :doc:`Navigation </guidelines/navigation>`
 
-* .. изображение:: img/плитки/рекомендации-масштабирование и адаптивность.svg
+*  .. image:: img/tiles/guidelines-scalingandadaptiveness.svg
       :target: guidelines/adaptive.html
       :class: only-light
    .. image:: /img/tiles/guidelines-scalingandadaptiveness-dark.svg
@@ -110,7 +110,7 @@
       
    :doc:`Scaling & Adaptiveness </guidelines/adaptive>`
 
-* .. изображение:: img/плитки/рекомендации-специальные возможности.svg
+*  .. image:: img/tiles/guidelines-accessibility.svg
       :target: guidelines/accessibility.html
       :class: only-light
    .. image:: /img/tiles/guidelines-accessibility-dark.svg
